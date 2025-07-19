@@ -1,5 +1,1 @@
-# About my first project on GitHub.
-
-asdsadsad
-
-asdsadasdsa
+./packages/core/README.md
